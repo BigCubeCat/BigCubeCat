@@ -10,12 +10,3 @@
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go&logoColor=00FFFF)
 ![Gorm](https://img.shields.io/badge/-Gorm-000?&logo=Go&logoColor=00FFFF)
 ![Fiber](https://img.shields.io/badge/-Fiber-000?&logo=Go&logoColor=00FFFF)
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![SqLite](https://img.shields.io/badge/-SqLite-000?&logo=SqLite&logoColor=89CFF0)
-
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
-
-
